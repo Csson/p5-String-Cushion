@@ -8,6 +8,7 @@ prereqs:
   runtime:
     requires:
       - perl: 5.010001
+      - Sub::Exporter::Progressive
   develop:
     requires:
        - perl: 5.014000
