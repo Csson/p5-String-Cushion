@@ -1,7 +1,6 @@
 use strict;
 use Test::More;
 use String::Cushion;
-use syntax 'qs';
 
 is cushion(0, "thing"), 'thing', 'Nothing empty';
 is cushion(0, 0, "\nthing"), 'thing', 'Empty leading line';
