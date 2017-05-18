@@ -3,8 +3,9 @@ use strict;
 use warnings;
 package String::Cushion;
 
-# VERSION
 # ABSTRACT: Vertically pad a string
+# AUTHORITY
+our $VERSION = '0.0100';
 
 1;
 
