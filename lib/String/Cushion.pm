@@ -5,7 +5,7 @@ package String::Cushion;
 
 # ABSTRACT: Vertically pad a string
 # AUTHORITY
-our $VERSION = '1.0000';
+our $VERSION = '1.0001';
 
 1;
 
